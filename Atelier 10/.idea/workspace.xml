@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65835b19-d624-4b51-a83a-a16cc6976b25" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JjWlfl9EDaEjcD1Th822I6RhRW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="services" />
+      <recent name="domaine" />
+      <recent name="main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="domaine" />
+      <recent name="services" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="services" />
+      <recent name="acceptance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.JokeApiTest.TestCreateJoke">
+    <configuration name="ApiServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.ApiServer" />
+      <module name="AJ_Atelier_10." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeApiTest.TestCreateJoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJ_Atelier_10." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="acceptance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="acceptance" />
+      <option name="MAIN_CLASS_NAME" value="acceptance.JokeApiTest" />
+      <option name="METHOD_NAME" value="TestCreateJoke" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeApiTest.TestNoJokes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJ_Atelier_10." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="acceptance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="acceptance" />
+      <option name="MAIN_CLASS_NAME" value="acceptance.JokeApiTest" />
+      <option name="METHOD_NAME" value="TestNoJokes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JokeApiTest.getJokes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJ_Atelier_10." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="acceptance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="acceptance" />
+      <option name="MAIN_CLASS_NAME" value="acceptance.JokeApiTest" />
+      <option name="METHOD_NAME" value="getJokes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acceptance in AJ_Atelier_10." type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJ_Atelier_10." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="acceptance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="acceptance" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JokeApiTest.TestCreateJoke" />
+        <item itemvalue="JUnit.JokeApiTest.TestNoJokes" />
+        <item itemvalue="JUnit.acceptance in AJ_Atelier_10." />
+        <item itemvalue="JUnit.JokeApiTest.getJokes" />
+        <item itemvalue="Application.ApiServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65835b19-d624-4b51-a83a-a16cc6976b25" name="Changes" comment="" />
+      <created>1672592126677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672592126677</updated>
+      <workItem from="1672592127884" duration="26408000" />
+      <workItem from="1673192885227" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.glassfish.hk2.api.UnsatisfiedDependencyException" package="org.glassfish.hk2.api" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
